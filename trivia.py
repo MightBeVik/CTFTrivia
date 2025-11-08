@@ -120,18 +120,18 @@ st.markdown('<div class="subtitle">Deploy teams, execute security queries, and c
 # ---------- Questions bank (category -> point_value -> (question, answer)) ----------
 QUESTIONS = {
     "Trojan Territory": {
-        100: ("What does 'SAIT' stand for?", "Southern Alberta Institute of Technology"),
-        300: ("What building on campus hosts most IT and cybersecurity classes?", "A-Wing / Aldred Centre"),
-        500: ("What's the name of SAIT's student cybersecurity club or team?", "SAITSEC / SAIT Cyber Security Club"),
-        700: ("SAIT's mascot, a Trojan, symbolizes what ancient civilization?", "Greek / Trojan civilization"),
-        1000: ("SAIT's official CTF team once competed in which national-level cyber event?", "Canadian Cyber Defence Challenge")
+        100: ("Name the SAIT CTrain station in full.", "SAIT/ACAD/Jubilee Station"),
+        300: ("SAIT was originally founded under what name?", "Alberta Vocational College"),
+        500: ("Name the SAIT building with the letter code G.", "Crandell Building"),
+        700: ("Which SAIT alumnus became a Canadian astronaut?", "Jeremy Hansen"),
+        1000: ("In what year did SAIT officially become a polytechnic institution?", "2000")
     },
     "Cyber Frontlines": {
-        100: ("What does 'VPN' stand for?", "Virtual Private Network"),
-        300: ("Which cybersecurity framework is known by the acronym 'NIST'?", "National Institute of Standards and Technology"),
-        500: ("What kind of attack floods a system with traffic to crash it?", "DDoS"),
-        700: ("What's the term for secretly exploiting a vulnerability before it's patched?", "Zero-day"),
-        1000: ("Name the 2017 ransomware attack that crippled global systems using a Windows SMB flaw.", "WannaCry")
+        100: ("Which 17th-century Englishman, who attempted to blow up Parliament and failed, inspired the mask worn by the hacktivist group Anonymous?", "Guy Fawkes"),
+        300: ("What infamous hacker collective in 2011 targeted Sony, PBS, and other companies \"for the lulz\"?", "LulzSec"),
+        500: ("What 2017 global ransomware attack exploited a Windows SMB vulnerability, hitting hospitals, businesses, and critical infrastructure?", "WannaCry"),
+        700: ("Which massive cyber espionage campaign, active since 2006, targeted governments and corporations worldwide and is attributed to a state actor?", "Shady RAT"),
+        1000: ("In 2015, over 25 gigabytes of user data was leaked by a group self-named \"The Impact Team,\" exposing people seeking extramarital affairs on which two-word Canadian dating network? Both words are common girls' names.", "Ashley Madison")
     },
     "Life in Wasteland": {
         100: ("What are bottle caps used for in Fallout?", "Currency"),
@@ -155,11 +155,11 @@ QUESTIONS = {
         1000: ("What psychological principle makes people more likely to comply with fake authority?", "Authority bias")
     },
     "Tech Lore & History": {
-        100: ("What does 'WWW' stand for?", "World Wide Web"),
-        300: ("What year was the first iPhone released?", "2007"),
-        500: ("What was the name of the first computer virus?", "Brain"),
-        700: ("Who is known as the father of computing?", "Charles Babbage"),
-        1000: ("What did the 'ILOVEYOU' virus of 2000 disguise itself as?", "A love letter email attachment")
+        100: ("The OG \"internet cat\" that basically started meme culture?", "Nyan Cat"),
+        300: ("Year TikTok officially launched globally (and shook the world)?", "2018"),
+        500: ("The first-ever \"computer virus\" that made your floppy scream?", "Brain"),
+        700: ("The guy who basically invented computing before it was cool, rocking gears and punch cards?", "Charles Babbage"),
+        1000: ("That legendary 2000 email worm that made everyone say \"I LOVE YOU\" but hate their inbox?", "ILOVEYOU virus")
     }
 }
 

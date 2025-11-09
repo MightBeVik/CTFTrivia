@@ -156,10 +156,10 @@ QUESTIONS = {
     },
     "Tech Lore & History": {
         100: ("The OG \"internet cat\" that basically started meme culture?", "Nyan Cat"),
-        300: ("Year TikTok officially launched globally (and shook the world)?", "2018"),
-        500: ("The first-ever \"computer virus\" that made your floppy scream?", "Brain"),
-        700: ("The guy who basically invented computing before it was cool, rocking gears and punch cards?", "Charles Babbage"),
-        1000: ("That legendary 2000 email worm that made everyone say \"I LOVE YOU\" but hate their inbox?", "ILOVEYOU virus")
+        300: ("What was Twitch originally called before rebranding in 2011?", "Justin.tv Gaming"),
+        500: ("What 1976 programming language, designed for business data processing, is still used in some legacy financial systems today?", "COBOL"),
+        700: ("What viral 2013 internet meme involved groups suddenly dancing to Baauer’s song?", "Harlem Shake"),
+        1000: ("Lord Byron’s daughter and commonly regarded as the first computer programmer?", "Ada Lovelace")
     }
 }
 

@@ -148,11 +148,11 @@ QUESTIONS = {
         1000: ("In Watch Dogs, what device does Aiden Pearce use to hack the city?", "Smartphone")
     },
     "Human Exploits": {
-        100: ("What's the act of tricking people into revealing info called?", "Phishing"),
-        300: ("What's 'tailgating' in a security context?", "Following someone into a secure area"),
-        500: ("What's the difference between phishing and spear phishing?", "Spear = targeted"),
-        700: ("What famous 1990s hacker was known for phone-based social engineering?", "Kevin Mitnick"),
-        1000: ("What psychological principle makes people more likely to comply with fake authority?", "Authority bias")
+        100: ("What is the term for mass-email scams that trick recipients into revealing credentials?", "Phishing"),
+        300: ("What is the term for following an authorized person through a secure entrance without authorization?", "Tailgating"),
+        500: ("What is the targeted form of phishing aimed at a specific individual or organization?", "Spear phishing"),
+        700: ("Which hacker, once on the FBI’s Most Wanted list, became famous for social engineering to gain access?", "Kevin Mitnick"),
+        1000: ("Which major 2011 security-industry breach began with a phishing email containing a malicious Excel attachment?", "RSA SecurID breach")
     },
     "Tech Lore & History": {
         100: ("The OG \"internet cat\" that basically started meme culture?", "Nyan Cat"),

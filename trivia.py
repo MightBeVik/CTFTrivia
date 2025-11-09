@@ -115,7 +115,6 @@ st.markdown(
 )
 
 st.markdown('<div class="retro-title">SAIT CYBERSECURITY CTF JEOPARDY</div>', unsafe_allow_html=True)
-st.markdown('<div class="subtitle">Deploy teams, execute security queries, and capture flags for correct exploits.</div>', unsafe_allow_html=True)
 
 # ---------- Questions bank (category -> point_value -> (question, answer)) ----------
 QUESTIONS = {
@@ -284,4 +283,4 @@ if st.button("Reboot System (new round)"):
     st.session_state.current = None
     st.rerun()
 
-st.caption("Designed with retro computer aesthetics. Modify QUESTIONS dict in the source code to change or add queries.")
+st.caption("--Vik--")
